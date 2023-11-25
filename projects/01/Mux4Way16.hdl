@@ -14,5 +14,10 @@ CHIP Mux4Way16 {
     OUT out[16];
     
     PARTS:
-    //// Replace this comment with your code.
+    Or (a=sel[0], b=sel[1], out=seld);
+    Not (in=seld, out=sela);
+    Not (in=sel[0], out=selb);
+    Not (in=sel[1], out=selc); 
+
+     
 }
