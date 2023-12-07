@@ -1,0 +1,10 @@
+screen
+draw rectangle starting at 0,0
+
+width @R0, height @R1
+
+
+- define current working address
+- set working address @curr to x0,y0 by adding the screen base address
+- calculate 
+

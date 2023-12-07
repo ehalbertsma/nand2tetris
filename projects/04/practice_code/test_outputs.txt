@@ -1,0 +1,6 @@
+Assembling /Users/E/Documents/Code/nand2tetris/projects/04/practice_code/array.asm
+Assembling /Users/E/Documents/Code/nand2tetris/projects/04/practice_code/demo.asm
+Assembling /Users/E/Documents/Code/nand2tetris/projects/04/practice_code/draw_rectangle.asm
+Assembling /Users/E/Documents/Code/nand2tetris/projects/04/practice_code/if_else.asm
+Assembling /Users/E/Documents/Code/nand2tetris/projects/04/practice_code/listen_keyboard.asm
+Assembling /Users/E/Documents/Code/nand2tetris/projects/04/practice_code/loop.asm

@@ -1,0 +1,28 @@
+required modules:
+
+- blacken entire screen
+    - loop through entire keyboard register
+    - set M = -1 at each register
+- whiten entire screen
+    - loop through entire keyboard register
+    - set M = 0 at each register
+- listen to keyboard input
+    - loop through entire keyboard register
+    - check if registers are 0
+
+@KEYBOARD
+D = A
+@addr
+M = D
+@SCREEN
+D = A
+@addr_max
+M = D - 1
+
+LOOP_DARK_SCRN
+    if @addr >= @addr_max goto END
+    @addr M = -1
+    @addr A = A + 32
+    goto LOOP
+
+
