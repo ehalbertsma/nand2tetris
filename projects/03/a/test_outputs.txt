@@ -1,0 +1,10 @@
+Bit.tst 	
+End of script - Comparison ended successfully
+PC.tst 	
+End of script - Comparison ended successfully
+RAM64.tst 	
+End of script - Comparison ended successfully
+RAM8.tst 	
+End of script - Comparison ended successfully
+Register.tst 	
+End of script - Comparison ended successfully

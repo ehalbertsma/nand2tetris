@@ -12,3 +12,124 @@ HalfAdder.tst
 End of script - Comparison ended successfully
 Inc16.tst 	
 End of script - Comparison ended successfully
+./projects/02/ALU-basic.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU-basic.tst doesn't exist
+./projects/02/ALU-no-zr.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU-no-zr.tst doesn't exist
+./projects/02/ALU.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU.tst doesn't exist
+./projects/02/Add16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/Add16.tst doesn't exist
+./projects/02/FullAdder.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/FullAdder.tst doesn't exist
+./projects/02/HalfAdder.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/HalfAdder.tst doesn't exist
+./projects/02/Inc16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/Inc16.tst doesn't exist
+./projects/02/ALU-basic.tst 	
+./projects/02/ALU-no-zr.tst 	
+./projects/02/ALU.tst 	
+./projects/02/Add16.tst 	
+./projects/02/FullAdder.tst 	
+./projects/02/HalfAdder.tst 	
+./projects/02/Inc16.tst 	
+./projects/02/ALU-basic.tst 	
+./projects/02/ALU-no-zr.tst 	
+./projects/02/ALU.tst 	
+./projects/02/Add16.tst 	
+./projects/02/FullAdder.tst 	
+./projects/02/HalfAdder.tst 	
+./projects/02/Inc16.tst 	
+./projects/02/ALU-basic.tst 	
+./projects/02/ALU-no-zr.tst 	
+./projects/02/ALU.tst 	
+./projects/02/Add16.tst 	
+./projects/02/FullAdder.tst 	
+./projects/02/HalfAdder.tst 	
+./projects/02/Inc16.tst 	
+./projects/02/ALU-basic.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU-basic.tst doesn't exist
+./projects/02/ALU-no-zr.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU-no-zr.tst doesn't exist
+./projects/02/ALU.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU.tst doesn't exist
+./projects/02/Add16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/Add16.tst doesn't exist
+./projects/02/FullAdder.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/FullAdder.tst doesn't exist
+./projects/02/HalfAdder.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/HalfAdder.tst doesn't exist
+./projects/02/Inc16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/Inc16.tst doesn't exist
+./projects/02/ALU-basic.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU-basic.tst doesn't exist
+./projects/02/ALU-no-zr.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU-no-zr.tst doesn't exist
+./projects/02/ALU.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU.tst doesn't exist
+./projects/02/Add16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/Add16.tst doesn't exist
+./projects/02/FullAdder.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/FullAdder.tst doesn't exist
+./projects/02/HalfAdder.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/HalfAdder.tst doesn't exist
+./projects/02/Inc16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/Inc16.tst doesn't exist
+./projects/02/ALU-basic.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU-basic.tst doesn't exist
+./projects/02/ALU-no-zr.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU-no-zr.tst doesn't exist
+./projects/02/ALU.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU.tst doesn't exist
+./projects/02/Add16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/Add16.tst doesn't exist
+./projects/02/FullAdder.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/FullAdder.tst doesn't exist
+./projects/02/HalfAdder.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/HalfAdder.tst doesn't exist
+./projects/02/Inc16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/Inc16.tst doesn't exist
+./projects/02/ALU-basic.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU-basic.tst doesn't exist
+./projects/02/ALU-no-zr.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU-no-zr.tst doesn't exist
+./projects/02/ALU.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU.tst doesn't exist
+./projects/02/Add16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/Add16.tst doesn't exist
+./projects/02/FullAdder.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/FullAdder.tst doesn't exist
+./projects/02/HalfAdder.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/HalfAdder.tst doesn't exist
+./projects/02/Inc16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/Inc16.tst doesn't exist
+./projects/02/ALU-basic.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU-basic.tst doesn't exist
+./projects/02/ALU-no-zr.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU-no-zr.tst doesn't exist
+./projects/02/ALU.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/ALU.tst doesn't exist
+./projects/02/Add16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/Add16.tst doesn't exist
+./projects/02/FullAdder.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/FullAdder.tst doesn't exist
+./projects/02/HalfAdder.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/HalfAdder.tst doesn't exist
+./projects/02/Inc16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/02/./projects/02/Inc16.tst doesn't exist
+Script /home/emrys/Projects/nand2tetris/./projects/02 not found
+End of script - Comparison ended successfully
+ALU-basic.tst 	
+End of script - Comparison ended successfully
+ALU-no-zr.tst 	
+Comparison failure at line 2
+ALU.tst 	
+End of script - Comparison ended successfully
+Add16.tst 	
+End of script - Comparison ended successfully
+FullAdder.tst 	
+End of script - Comparison ended successfully
+HalfAdder.tst 	
+End of script - Comparison ended successfully
+Inc16.tst 	
+End of script - Comparison ended successfully

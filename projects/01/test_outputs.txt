@@ -58,3 +58,108 @@ Or8Way.tst
 End of script - Comparison ended successfully
 Xor.tst 	
 End of script - Comparison ended successfully
+./projects/01/And.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/And.tst doesn't exist
+./projects/01/And16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/And16.tst doesn't exist
+./projects/01/DMux.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/DMux.tst doesn't exist
+./projects/01/DMux4Way.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/DMux4Way.tst doesn't exist
+./projects/01/DMux8Way.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/DMux8Way.tst doesn't exist
+./projects/01/Mux.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Mux.tst doesn't exist
+./projects/01/Mux16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Mux16.tst doesn't exist
+./projects/01/Mux4Way16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Mux4Way16.tst doesn't exist
+./projects/01/Mux8Way16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Mux8Way16.tst doesn't exist
+./projects/01/Not.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Not.tst doesn't exist
+./projects/01/Not16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Not16.tst doesn't exist
+./projects/01/Or.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Or.tst doesn't exist
+./projects/01/Or16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Or16.tst doesn't exist
+./projects/01/Or8Way.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Or8Way.tst doesn't exist
+./projects/01/Xor.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Xor.tst doesn't exist
+./projects/01/And.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/And.tst doesn't exist
+./projects/01/And16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/And16.tst doesn't exist
+./projects/01/DMux.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/DMux.tst doesn't exist
+./projects/01/DMux4Way.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/DMux4Way.tst doesn't exist
+./projects/01/DMux8Way.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/DMux8Way.tst doesn't exist
+./projects/01/Mux.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Mux.tst doesn't exist
+./projects/01/Mux16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Mux16.tst doesn't exist
+./projects/01/Mux4Way16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Mux4Way16.tst doesn't exist
+./projects/01/Mux8Way16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Mux8Way16.tst doesn't exist
+./projects/01/Not.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Not.tst doesn't exist
+./projects/01/Not16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Not16.tst doesn't exist
+./projects/01/Or.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Or.tst doesn't exist
+./projects/01/Or16.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Or16.tst doesn't exist
+./projects/01/Or8Way.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Or8Way.tst doesn't exist
+./projects/01/Xor.tst 	
+/home/emrys/Projects/nand2tetris/./projects/01/./projects/01/Xor.tst doesn't exist
+./projects/01/And.tst 	
+./projects/01/And16.tst 	
+./projects/01/DMux.tst 	
+./projects/01/DMux4Way.tst 	
+./projects/01/DMux8Way.tst 	
+./projects/01/Mux.tst 	
+./projects/01/Mux16.tst 	
+./projects/01/Mux4Way16.tst 	
+./projects/01/Mux8Way16.tst 	
+./projects/01/Not.tst 	
+./projects/01/Not16.tst 	
+./projects/01/Or.tst 	
+./projects/01/Or16.tst 	
+./projects/01/Or8Way.tst 	
+./projects/01/Xor.tst 	
+./projects/01/And.tst 	
+./projects/01/And16.tst 	
+./projects/01/DMux.tst 	
+./projects/01/DMux4Way.tst 	
+./projects/01/DMux8Way.tst 	
+./projects/01/Mux.tst 	
+./projects/01/Mux16.tst 	
+./projects/01/Mux4Way16.tst 	
+./projects/01/Mux8Way16.tst 	
+./projects/01/Not.tst 	
+./projects/01/Not16.tst 	
+./projects/01/Or.tst 	
+./projects/01/Or16.tst 	
+./projects/01/Or8Way.tst 	
+./projects/01/Xor.tst 	
+./projects/01/And.tst 	
+./projects/01/And16.tst 	
+./projects/01/DMux.tst 	
+./projects/01/DMux4Way.tst 	
+./projects/01/DMux8Way.tst 	
+./projects/01/Mux.tst 	
+./projects/01/Mux16.tst 	
+./projects/01/Mux4Way16.tst 	
+./projects/01/Mux8Way16.tst 	
+./projects/01/Not.tst 	
+./projects/01/Not16.tst 	
+./projects/01/Or.tst 	
+./projects/01/Or16.tst 	
+./projects/01/Or8Way.tst 	
+./projects/01/Xor.tst 	

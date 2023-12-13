@@ -1,0 +1,6 @@
+RAM16K.tst 	
+End of script - Comparison ended successfully
+RAM4K.tst 	
+End of script - Comparison ended successfully
+RAM512.tst 	
+End of script - Comparison ended successfully
