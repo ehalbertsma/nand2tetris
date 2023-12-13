@@ -20,7 +20,4 @@ CHIP DMux4Way {
     DMux (in=v1, sel=sel[0], a=a, b=b);
     DMux (in=v2, sel=sel[0], a=c, b=d);
 
-
-
-
 }
