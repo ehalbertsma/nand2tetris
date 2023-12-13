@@ -1,0 +1,14 @@
+ALU-basic.tst 	
+End of script - Comparison ended successfully
+ALU-no-zr.tst 	
+Comparison failure at line 2
+ALU.tst 	
+End of script - Comparison ended successfully
+Add16.tst 	
+End of script - Comparison ended successfully
+FullAdder.tst 	
+End of script - Comparison ended successfully
+HalfAdder.tst 	
+End of script - Comparison ended successfully
+Inc16.tst 	
+End of script - Comparison ended successfully
