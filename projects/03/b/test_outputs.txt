@@ -1,21 +1,3 @@
-./projects/03/b/RAM16K.tst 	
-/home/emrys/Projects/nand2tetris/./projects/03/b/./projects/03/b/RAM16K.tst doesn't exist
-./projects/03/b/RAM4K.tst 	
-/home/emrys/Projects/nand2tetris/./projects/03/b/./projects/03/b/RAM4K.tst doesn't exist
-./projects/03/b/RAM512.tst 	
-/home/emrys/Projects/nand2tetris/./projects/03/b/./projects/03/b/RAM512.tst doesn't exist
-./projects/03/b/RAM16K.tst 	
-/home/emrys/Projects/nand2tetris/./projects/03/b/./projects/03/b/RAM16K.tst doesn't exist
-./projects/03/b/RAM4K.tst 	
-/home/emrys/Projects/nand2tetris/./projects/03/b/./projects/03/b/RAM4K.tst doesn't exist
-./projects/03/b/RAM512.tst 	
-/home/emrys/Projects/nand2tetris/./projects/03/b/./projects/03/b/RAM512.tst doesn't exist
-RAM16K.tst 	
-End of script - Comparison ended successfully
-RAM4K.tst 	
-End of script - Comparison ended successfully
-RAM512.tst 	
-End of script - Comparison ended successfully
 RAM16K.tst 	
 End of script - Comparison ended successfully
 RAM4K.tst 	
