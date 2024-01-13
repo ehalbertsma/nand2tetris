@@ -1,0 +1,20 @@
+
+
+multiplication
+
+a*b =  a+a+...+a
+       |___ b __|
+
+similar to a sum, where 1<=i<=b,
+and we add sum + a each iteration.
+----------
+sum=0
+i=1
+n=b
+while {
+    if i <= n {
+        sum = sum + a
+        i = i + 1
+    }
+}
+

@@ -1,0 +1,3 @@
+Assembling /Users/E/Documents/Code/nand2tetris/projects/04/mult/mult.asm
+Testing projects/04/mult/Mult.tst ...
+End of script - Comparison ended successfully

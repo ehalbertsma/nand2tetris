@@ -1,0 +1,22 @@
+// pseudocode
+
+// array with base address 100 containing X number of elements
+// i.e. RAM[100] = arr[0], RAM[101] = arr[1], ...
+// problem definition: set first $n$ elements of the array to -1
+
+arr = 100
+n = 10
+i = 1
+
+while {
+    if i <= n { 
+        arr[i] = -1 
+        i = i + 1
+    }
+}
+
+--------
+
+arr[i] = -1
+
+
